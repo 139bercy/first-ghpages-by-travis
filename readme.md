@@ -17,7 +17,7 @@ git push origin gh-pages
 
 - Create a personal access token for your account on GitHub (make sure to enable the “repo” scope so that using this token will enable writing to your GitHub repos) : http://bit.ly/2cEBYWB
 
-- Create an environment variable GITHUB_PAT with the value of the token
+- Create an environment variable GITHUB_PAT with the value of the token (settings in travis-ci web interface)
 
 - Create a .travis.yml file with :
 
