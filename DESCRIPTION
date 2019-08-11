@@ -1,0 +1,8 @@
+Package: first_ghpages_by_travis
+Type: Book
+Title: First GitHub pages by Travus CI
+Version: 0.0.1
+Imports: rmarkdown, htmltools
+License: MIT
+Description: Exemple d'une mise en ligne d'un rapport résultat d'un traitement en R
+Authors@R: person("Stéphane", "Trainel", role = c("aut", "cre"), email = "stephane.trainel@gmail.com", comment = c(ORCID = "0000-0002-4473-3121"))
